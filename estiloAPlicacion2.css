@@ -1,0 +1,71 @@
+
+/* 
+<!-Brandon Isaías Ampérez Aldana 0909-21-4628 -->
+*/
+
+body{
+    width: 900px;
+    margin: auto;
+    background-color:aquamarine;
+    border:dotted;
+}
+
+h1{
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+}
+
+h2{
+    background-color: darkblue;
+    color:white;
+    text-align:left;
+     width: 340px;
+}
+
+h3{
+    text-align: center;   
+    color:black;
+    text-align:left;
+     width: 150px;
+      border:dotted;
+}
+
+
+
+nav li{
+    display: inline-block;
+    padding: 5px;
+    
+}
+
+footer{
+     font-size: x-large;
+     background-color:white;
+     width: 200px;
+}
+
+.menuSuperior{
+    
+    font-size: x-large;
+    background-color:white;
+     width: 320px;
+}
+
+.menuInferior{
+    
+    font-size: x-large;
+    background-color:white;
+     width: 120px;
+}
+
+link{
+   font-size: x-large;
+    background-color:white;
+     width: 320px;
+}
+
+button{
+    font-size: x-large;
+     width: 100px;
+}
